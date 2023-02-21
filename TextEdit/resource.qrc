@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/dev">
+        <file>img/94193_text_512x512.png</file>
+        <file>img/Files-icon.png</file>
+        <file>img/free-file-icon-1453-thumb.png</file>
+        <file>img/193-1932572_computer-icons-document-file-format-icon-design-new-file-icon-png.jpeg</file>
+        <file>img/302-3023093_open-redo-icon-png.png</file>
+        <file>img/776-7768192_undo-png-image-redo-cartoon-transparent-png.png</file>
+        <file>img/sm_5aa8fceea1b8e.jpg</file>
+    </qresource>
+</RCC>
